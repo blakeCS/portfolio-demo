@@ -1,3 +1,22 @@
 h1 {
     color:rgb(172, 13, 162)
 }
+
+body{
+    background-color: aqua
+}
+
+.profile{
+    border-radius: 20px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    width: 30%;
+
+}
+
+.intro-section{
+    align-items: center;
+    gap: 3rem;
+    margin: 2rem;
+    padding:1rem;
+    background-color: rgb(20, 209, 118);
+}
